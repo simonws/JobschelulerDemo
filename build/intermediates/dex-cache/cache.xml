@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_0e2cf319c0490bc05f27656f8fd08491191b2cd5.jar" />
+    </item>
+    <item
+        jar="/media/ws/NEW_DISK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_dd7dfdcc97c8183b0437f76b86eb19e614f3c098.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_a85e5e1ce70a16c5b5def25864077977b677c471.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_983864f1aacae57f8ad8d70583617f2e1da5c35e.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_4738e70ae0f55b72fb46c5a60f5a58de64476aaf.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_c3c3c695a050da023d632bc66df7829ee99b2ba6.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ae9506e38f56461527ff653db69246e5471039bd.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_d76d433a6b5faf0437b38723a17bf33278d1b8dd.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_fd24629605c68c7db622886bc917920a7f5a938a.jar" />
+    </item>
+    <item
+        jar="/home/ws/project/my_github/JobScheduler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ws/project/my_github/JobScheduler/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_a7d9b3f7d0fab33346115cb565e7de59c08cce3f.jar" />
+    </item>
+
+</items>
